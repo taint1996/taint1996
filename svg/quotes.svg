@@ -1,0 +1,35 @@
+<svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+          background-color: #20232A;
+					border-radius: 10px;
+					color: white;
+          line-height: 1.6;
+					flex-wrap: wrap;
+				}
+        .quotes-eng {
+          font-size: 15px;
+        }
+        .quotes-vi {
+          font-size: 15px;
+        }
+        
+			</style>
+
+			<div class="container">
+        <div class="quotes-eng">"At some point, you gotta decide for yourself who u gonna be. Can't let anybody make decisions for you"</div>
+        <div class="quotes-vi">"Đến một lúc nào đó, bạn phải tự quyết định xem mình sẽ trở thành ai. Không thể để bất cứ ai đưa ra quyết định cho bạn"</div>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
