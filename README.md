@@ -80,7 +80,7 @@ Thanks for reading! Let's connect and explore the fascinating world of technolog
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/quotes.svg" width="850" height="150" alt="A quote that I appreciate." />
+  <img src="svg/quotes.svg" width="850" height="150" alt="Quotes" />
 </a>
 
 <!--
