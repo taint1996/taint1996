@@ -1,12 +1,12 @@
 # Hi, My name is Teth! 👋
 
-# About Me
+<img src="svg/introduce.svg" width="850" height="150" alt="Introduce" />
 
+# Introduction
 - I've 5 years working as Web Developer
 - Due to the unique nature of each project, I adapt and utilize a diverse range of technologies to
   best meet its requirements.
-- I can work with front-end, and back-end (Such as RoR, NodeJS, ReactJS, Angular JS, PostgreSQL,
-  HTML5, SCSS, Bootstrap.
+- I can work with front-end, and back-end (Such as RoR, NodeJS, ReactJS, Angular JS, PostgreSQL, HTML5, SCSS, Bootstrap.)
 - The primary technologies I specialize in for development are Ruby, NodeJS, and React
 
 # Professional Summary
@@ -52,7 +52,7 @@
 &nbsp;
 
 ## 🌱 Currently Exploring
-<br/>
+
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
@@ -61,28 +61,33 @@
   - Diving into PostgreSQL for efficient and scalable database management.
 
 ## 🏆 Achievements
-<br/>
-- Udacity Intermediate Javascript
-- Udacity ReactJS
-- Udacity Fullstack Javascript Developer
-- Udacity SQL
+
+- Udacity Intermediate Javascript <a href="https://learn.udacity.com/view-certificate/nd032" target="_blank">(View)</a>
+- Udacity ReactJS <a href="https://learn.udacity.com/view-certificate/nd019" target="_blank">(View)</a>
+- Udacity Fullstack Javascript Developer <a href="https://learn.udacity.com/view-certificate/nd0067" target="_blank">(View)</a>
+- Udacity SQL <a href="https://learn.udacity.com/view-certificate/nd072" target="_blank">(View)</a>
 - Professional Scrum Master I (PSMI)
 
 # Git Dashboard
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=taint1996&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Github stats" /></p>
-<br/>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taint1996&size_weight=0.5&count_weight=0.5&theme=vue-dark" alt="Most Used Language" /></p>
 <br/>
 
-# Projects
+# 🏆 Projects
+
 ## 🚀 From Udacity FullStack Javascript Developer
+
 ### MyStore App
+
 - Web App based on Angular 12 | Typescript | RxJS | Data JSON | HTML & CSS | Bootstrap | Karma - Jasmine | Responsive Design
   <br/>
-<img src="./images/MyStoreApp/MyStoreApp.png" alt="My Store App" align="center" />
+  <img src="./images/MyStoreApp/MyStoreApp.png" alt="My Store App" align="center" />
 
 ## 🚀 From Udacity ReactJS
+
 ### MyReads A Book Tracking App
+
 - Web pages based on React | ReactRouterDom | HTML & CSS | React Books Udacity API | React Hooks | Responsive Design
   <br/>
   <img src="./images/ReactJS/MyReads_BookTrackingApp/MyReadListPage.png" alt='BookTrackingApp' align="center" />
@@ -90,6 +95,7 @@
   <img src="./images/ReactJS/MyReads_BookTrackingApp/MyReadSearch.png" alt='BookTrackingApp' align="center" />
 
 ### Employee Polls Web App
+
 - Web pages based on React 18 | Vite | Typescript | ReactRouterDom | MUI |
   | React-Redux | Redux Toolkits | DATA js file | Responsive Design
 - Unit Test was written by Jest - testing-library/react - testing-library/dom - testing-library/jest-dom - react-test-renderers
@@ -108,7 +114,9 @@
 <br/>
 
 ## 🚀 From Udacity Intermediate Javascript
+
 ### Mars Dashboard
+
 - Web App based on NodeJS | ExpressJS | NASA API Javascript | HTML & CSS | Responsive Design
   <br/>
   <a href="https://github.com/taint1996/Udacity_Intermediate_Javascript/tree/master/Mars_Dashboard_Project" target="_blank">
@@ -121,19 +129,23 @@
   <br/>
 
 ### Dinosaurs
+
 - Web page based on Javascript | HTML & CSS | Responsive Design
   <br/>
   <img src="./images/Dinosaurs/DinosaursForm.png" alt='Dinosaurs Form page' align="center" height="300" />
   <br/>
+
   <img src="./images/Dinosaurs/Dinosaurs.png" alt='Dinosaurs Results' align="center" height="300" />
   <br/>
-  🌱🌱 And more projects...
+
+🌱🌱🌱 And more projects...
 
 ## 📬 Get in Touch
-- Connect with me on [Linkdin](https://www.linkedin.com/in/tai-nguyen-trung/)
-- Connect with me on [Email] (mailto:tai.nguyentrung1996@gmail.com)
 
-Thanks for reading! Let's connect and explore the fascinating world of technology together. 🚀
+- Connect with me on <a href="https://www.linkedin.com/in/tai-nguyen-trung/" target="_blank">Linkdin</a>
+- Or send message to my <a href="mailto:tai.nguyentrung1996@gmail.com" target="_blank">Email</a>
+
+##### Thanks for reading! Let's connect and explore the fascinating world of technology together. 🚀🚀🚀
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
