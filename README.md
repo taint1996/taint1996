@@ -52,7 +52,7 @@
 &nbsp;
 
 ## 🌱 Currently Exploring
-
+<br/>
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
@@ -61,7 +61,7 @@
   - Diving into PostgreSQL for efficient and scalable database management.
 
 ## 🏆 Achievements
-
+<br/>
 - Udacity Intermediate Javascript
 - Udacity ReactJS
 - Udacity Fullstack Javascript Developer
@@ -69,26 +69,20 @@
 - Professional Scrum Master I (PSMI)
 
 # Git Dashboard
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=taint1996&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Github stats" /></p>
-
+<br/>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taint1996&size_weight=0.5&count_weight=0.5&theme=vue-dark" alt="Most Used Language" /></p>
+<br/>
 
 # Projects
-
 ## 🚀 From Udacity FullStack Javascript Developer
-
 ### MyStore App
-
 - Web App based on Angular 12 | Typescript | RxJS | Data JSON | HTML & CSS | Bootstrap | Karma - Jasmine | Responsive Design
   <br/>
-
 <img src="./images/MyStoreApp/MyStoreApp.png" alt="My Store App" align="center" />
 
 ## 🚀 From Udacity ReactJS
-
 ### MyReads A Book Tracking App
-
 - Web pages based on React | ReactRouterDom | HTML & CSS | React Books Udacity API | React Hooks | Responsive Design
   <br/>
   <img src="./images/ReactJS/MyReads_BookTrackingApp/MyReadListPage.png" alt='BookTrackingApp' align="center" />
@@ -96,49 +90,46 @@
   <img src="./images/ReactJS/MyReads_BookTrackingApp/MyReadSearch.png" alt='BookTrackingApp' align="center" />
 
 ### Employee Polls Web App
-
 - Web pages based on React 18 | Vite | Typescript | ReactRouterDom | MUI |
   | React-Redux | Redux Toolkits | DATA js file | Responsive Design
 - Unit Test was written by Jest - testing-library/react - testing-library/dom - testing-library/jest-dom - react-test-renderers
 - Also handle ErrorBoundary and PrivateRoute
   <br/>
   <img src="./images/ReactJS/EmployeePolls/1_loginPage.png" alt='Employee Polls 1' align="center" />
-
+  <br/>
   <img src="./images/ReactJS/EmployeePolls/2_HomePage.png" alt='Employee Polls 2' align="center" />
-
+  <br/>
   <img src="./images/ReactJS/EmployeePolls/3_PollDetail.png" alt='Employee Polls 3' align="center" />
-
+  <br/>
   <img src="./images/ReactJS/EmployeePolls/4_LeaderBoard.png" alt='Employee Polls 4' align="center" />
-
+  <br/>
   <img src="./images/ReactJS/EmployeePolls/5_AddNewPoll.png" alt='Employee Polls 5' align="center" />
 
 <br/>
 
 ## 🚀 From Udacity Intermediate Javascript
-
 ### Mars Dashboard
-
 - Web App based on NodeJS | ExpressJS | NASA API Javascript | HTML & CSS | Responsive Design
   <br/>
   <a href="https://github.com/taint1996/Udacity_Intermediate_Javascript/tree/master/Mars_Dashboard_Project" target="_blank">
-  <img src="./images/Mars-Dashboard/Mars_Dashboard.png" alt='Mars dashboard' width="300px" height="300px" />
+  <img src="./images/Mars-Dashboard/Mars_Dashboard.png" alt='Mars dashboard' align="center" height="300" />
   </a>
+  <br/>
   <a href="https://github.com/taint1996/Udacity_Intermediate_Javascript/tree/master/Mars_Dashboard_Project" target="_blank">
-  <img src="./images/Mars-Dashboard/Mars_Dashboard_Responsive.png" alt='Mars dashboard' width="300px" height="300px" />
+  <img src="./images/Mars-Dashboard/Mars_Dashboard_Responsive.png" alt='Mars dashboard' align="center" height="300" />
   </a>
   <br/>
 
 ### Dinosaurs
-
 - Web page based on Javascript | HTML & CSS | Responsive Design
   <br/>
-  <img src="./images/DinosaursForm.png" alt='Dinosaurs Form page' width="300px" height="300px" />
-  <img src="./images/Dinosaurs.png" alt='Dinosaurs Results' width="300px" height="300px" />
-
-And more projects... I'll update later!
+  <img src="./images/Dinosaurs/DinosaursForm.png" alt='Dinosaurs Form page' align="center" height="300" />
+  <br/>
+  <img src="./images/Dinosaurs/Dinosaurs.png" alt='Dinosaurs Results' align="center" height="300" />
+  <br/>
+  🌱🌱 And more projects...
 
 ## 📬 Get in Touch
-
 - Connect with me on [Linkdin](https://www.linkedin.com/in/tai-nguyen-trung/)
 - Connect with me on [Email] (mailto:tai.nguyentrung1996@gmail.com)
 
