@@ -1,8 +1,12 @@
 # Hi, My name is Teth! 👋
-
-<img src="svg/introduce.svg" width="850" height="150" alt="Introduce" />
+<div style="width: 100%; height: 400px; background-color: #224058; display: flex; align-items: center; justify-content: center;">
+  <img height="200" width="200" src="images/my_avatar.jpg" style="border-radius: 50%;" alt="Image Profile" />
+  <h1 align="center" style="font-size: 18px; font-weight: 700; margin-top: 20px; color: #767ac9;">Web Developer | Fullstack Web Developer | Software Engineer</h1>
+</div>
+<br/>
 
 # Introduction
+
 - I've 5 years working as Web Developer
 - Due to the unique nature of each project, I adapt and utilize a diverse range of technologies to
   best meet its requirements.
